@@ -1,4 +1,4 @@
-# MAIL 
+# MAIL  (!Its a Public Repo)
 A client-side web application that allows users to send, receive, reply, and archive emails with complete privacy!
 
 Project is Live!
